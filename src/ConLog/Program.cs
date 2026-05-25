@@ -12,6 +12,7 @@ namespace ConLog
             _logger.LogWarning("Start Application...");
             Console.ReadKey();
             _logger.LogInformation("Stop Application...");
+            //jkljlk
         }
     }
 }
