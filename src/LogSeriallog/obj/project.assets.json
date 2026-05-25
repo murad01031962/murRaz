@@ -5158,11 +5158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S\\Documents\\GitHub\\zzz\\src\\LogSeriallog\\LogSeriallog.csproj",
+      "projectUniqueName": "C:\\Users\\S\\Documents\\GitHub\\murRaz\\src\\LogSeriallog\\LogSeriallog.csproj",
       "projectName": "LogSeriallog",
-      "projectPath": "C:\\Users\\S\\Documents\\GitHub\\zzz\\src\\LogSeriallog\\LogSeriallog.csproj",
+      "projectPath": "C:\\Users\\S\\Documents\\GitHub\\murRaz\\src\\LogSeriallog\\LogSeriallog.csproj",
       "packagesPath": "C:\\Users\\S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S\\Documents\\GitHub\\zzz\\src\\LogSeriallog\\obj\\",
+      "outputPath": "C:\\Users\\S\\Documents\\GitHub\\murRaz\\src\\LogSeriallog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f0f84a0e82b95ff2377e97e7a9d5596b68131f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e98d3f888764611860c93e02df942995a47e7a53")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConLog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
