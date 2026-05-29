@@ -2,6 +2,7 @@
 [Bb]in/
 TestResults/
 bin/
+obj
 .nuget/
 .vs/
 _ReSharper.*/
