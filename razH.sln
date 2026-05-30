@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConLog", "src\ConLog\ConLog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSeriallog", "src\LogSeriallog\LogSeriallog.csproj", "{C8D6BB77-E6C7-4497-9E0B-A24E2789876A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wwwHome", "wwwHome\wwwHome.csproj", "{2DD87CA7-B05A-4D5C-84D1-D28D1197E94E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C8D6BB77-E6C7-4497-9E0B-A24E2789876A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D6BB77-E6C7-4497-9E0B-A24E2789876A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D6BB77-E6C7-4497-9E0B-A24E2789876A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD87CA7-B05A-4D5C-84D1-D28D1197E94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD87CA7-B05A-4D5C-84D1-D28D1197E94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD87CA7-B05A-4D5C-84D1-D28D1197E94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD87CA7-B05A-4D5C-84D1-D28D1197E94E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
