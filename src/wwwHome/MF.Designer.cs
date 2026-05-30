@@ -1,6 +1,6 @@
 ﻿namespace wwwHome
 {
-    partial class Form1
+    partial class MF
     {
         /// <summary>
         ///  Required designer variable.

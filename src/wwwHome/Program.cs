@@ -1,17 +1,20 @@
 namespace wwwHome
 {
-    internal static class Program
+    public static class Program
     {
+        static public DialogResult result = DialogResult.Cancel;
         /// <summary>
-        ///  The main entry point for the application.
+        /// Главная точка входа для приложения.
         /// </summary>
         [STAThread]
         static void Main()
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            LoginF logF = new LoginF();
+            logF.ShowDialog();
+            if (result == DialogResult.OK)
+                Application.Run(new MF());
         }
     }
 }
